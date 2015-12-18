@@ -1,6 +1,6 @@
 //*******************************************************************
 //www.go8051.com
-//Chapter 1
+//Chapter 2
 //Breadboard Microcontroller 8051 Mounting and Led Blinking
 //Created By go8051.com
 // Open source
